@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arpita1032001
+- 👋 Hi, I'm Arpita Sahoo
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning data visualization and manipulation techniques and Business Intelligence tools
 - 💞️ I’m looking for internships in Data Analytics 
